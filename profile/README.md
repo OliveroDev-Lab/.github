@@ -36,7 +36,7 @@ Acompañamiento técnico después del lanzamiento: actualizaciones, mejoras, mon
 ### StringNets
 Sitio web corporativo para una empresa de fibra óptica en Santo Domingo Este. Incluye catálogo de planes hogar y empresa, SpeedTest integrado, formulario de contacto conectado a WhatsApp y presencia digital completa.
 
-[Ver sitio web](https://oliverodev-lab.github.io/stringnets-web/) · [Ver repositorio](https://github.com/OliveroDev-Lab/stringnets-web)
+Proyecto privado · En preparación para su dominio oficial.
 
 ---
 
